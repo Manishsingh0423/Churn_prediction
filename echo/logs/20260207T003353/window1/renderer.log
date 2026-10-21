@@ -1,0 +1,15 @@
+2026-02-07 00:33:57.160 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 24ms.
+2026-02-07 00:33:58.524 [info] Started local extension host with pid 22452.
+2026-02-07 00:34:00.655 [info] MCP Registry configured: https://api.mcp.github.com
+2026-02-07 00:34:02.300 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-02-07 00:34:03.755 [info] [perf] Render performance baseline is 88ms
+2026-02-07 00:34:04.560 [info] Extension host (LocalProcess pid: 22452) is unresponsive.
+2026-02-07 00:34:04.730 [error] [Extension Host] (node:22452) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2026-02-07 00:34:04.731 [error] [Extension Host] (node:22452) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-02-07 00:34:04.777 [info] Extension host (LocalProcess pid: 22452) is responsive.
+2026-02-07 00:34:04.778 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2026-02-07 00:34:05.962 [info] UNRESPONSIVE extension host: starting to profile NOW
+2026-02-07 00:34:07.764 [error] CodeExpectedError: No default agent registered
+    at qgt.activateDefaultAgent (vscode-file://vscode-app/c:/Users/manis/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:21110)
+2026-02-07 00:34:08.879 [error] An unknown error occurred. Please consult the log for more details.

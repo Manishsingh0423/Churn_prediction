@@ -1,0 +1,8 @@
+2026-02-07 00:33:54.067 [error] Error: Error mutex already exists
+    at id.S (file:///C:/Users/manis/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/main.js:145:18925)
+2026-02-07 00:33:54.178 [info] update#setState idle
+2026-02-07 00:34:24.308 [info] update#setState checking for updates
+2026-02-07 00:34:24.723 [info] update#setState idle
+2026-02-07 01:34:24.340 [info] update#setState checking for updates
+2026-02-07 01:34:25.138 [info] update#setState idle
+2026-02-07 02:22:47.370 [info] Extension host with pid 22452 exited with code: 0, signal: unknown.
